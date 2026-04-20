@@ -5,7 +5,7 @@
 
 <!-- MAIN IMAGE -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="S7 Swarm Core"
+  <img src="https://github.com/husamhusamm/srap/blob/main/logo.png" alt="S7 Swarm Core"
   width="220px"
   style="
     border-radius: 20px;
