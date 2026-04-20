@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/render?type=thicker&color=000000&customColorList=10&height=300&section=header&text=S7%20SWARM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=THE%20SWARM%20IS%20ACTIVE%20-%20MULTI-SESSION%20ORCHESTRATION&descAlignY=62&descSize=18&fontColor=ff0000" width="100%" style="filter: drop-shadow(0 0 20px red);" />
 
 
 <!-- NEON SEPARATOR -->
