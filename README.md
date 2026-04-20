@@ -1,21 +1,21 @@
-# ⚡✨ My Awesome Project ✨⚡
+# ⚡✨ Srap Project ✨⚡
 
 <p align="center">
-  🚀 Welcome to my powerful and clean educational tool 🚀  
+  🚀 Welcome to my awesome educational project 🚀  
 </p>
 
 ---
 
 ## 🌟 About the Project
-This project is designed for learning, testing, and experimenting in a simple and organized way.  
-It focuses on clarity, performance, and ease of use.
+This is a simple educational tool designed for learning, testing, and experimentation.  
+Clean structure, easy usage, and beginner friendly.
 
 ---
 
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="images/logo.png" width="300px">
+  <img src="https://raw.githubusercontent.com/husamhusamm/srap/main/logo.png" width="300">
 </p>
 
 ---
@@ -23,5 +23,5 @@ It focuses on clarity, performance, and ease of use.
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/husamhusamm/srap.git
+cd srap
