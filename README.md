@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=thicker&color=000000&customColorList=10&height=300&section=header&text=S7%20SWARM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=THE%20SWARM%20IS%20ACTIVE%20-%20MULTI-SESSION%20ORCHESTRATION&descAlignY=62&descSize=18&fontColor=ff0000" width="100%" />
 
 <p align="center">
   <img src="YOUR_IMAGE_URL_HERE" alt="S7 Swarm Core" width="220px" style="border-radius: 20px; border: 2px solid #ff0000; box-shadow: 0 0 40px #ff0000;">
