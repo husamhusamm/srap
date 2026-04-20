@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/render?type=thicker&color=000000&customColorList=10&height=300&section=header&text=S7%20SWARM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=NEXT-GEN%20MULTI-SESSION%20TOR%20AUTOMATION&descAlignY=62&descSize=20&fontColor=ff0000" width="100%" />
 
-[![License](https://img.shields.io/badge/LICENSE-MIT-red.svg?style=for-the-badge&logo=github)](https://github.com/)
-[![Kernel](https://img.shields.io/badge/PLATFORM-LINUX-red.svg?style=for-the-badge&logo=linux)](https://www.linux.org/)
-[![Network](https://img.shields.io/badge/NETWORK-TOR-red.svg?style=for-the-badge&logo=tor-project)](https://www.torproject.org/)
 
 <p align="center">
   <img src="https://via.placeholder.com/200/000000/ff0000?text=S7+SWARM" alt="S7 Swarm Logo" width="200px" style="border-radius: 50%; border: 3px solid #ff0000; box-shadow: 0 0 30px #ff0000;">
