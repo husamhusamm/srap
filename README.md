@@ -22,8 +22,12 @@
   </rect>
 </svg>
 
-### 🔴 [ STATUS: ENGAGED ] 🔴
+### 🔴 [ STATUS: ENGAGED ] 🔴  
 **Advanced Framework for Multi-IP Session Automation**
+
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" alt="S7 Swarm Core" width="220px" style="border-radius: 20px; border: 2px solid #ff0000; box-shadow: 0 0 40px #ff0000;">
+</p>
 
 ---
 
@@ -32,11 +36,13 @@
 ## 🌌 Overview
 **S7 Swarm** is a powerful automation suite designed to launch up to **12 simultaneous Chromium instances**. Each session is completely isolated with its own browser profile and routed through a unique **Tor SOCKS circuit**.
 
-### ⚡ Technical Arsenal:
-* 🛡️ **Session Sandbox:** Isolated data directories for every window.
-* 🧅 **Identity Rotation:** Automatic binding to individual Tor ports (9050-9061).
-* 🖥️ **Grid Matrix:** Real-time window positioning based on screen resolution.
-* 🚨 **Emergency Stop:** Integrated `SIGINT` trap to kill all processes with Ctrl+C.
+---
+
+## ⚡ Technical Arsenal:
+* 🛡️ Session Sandbox: Isolated data directories for every window.
+* 🧅 Identity Rotation: Automatic binding to individual Tor ports (9050-9061).
+* 🖥️ Grid Matrix: Real-time window positioning based on screen resolution.
+* 🚨 Emergency Stop: Integrated SIGINT trap to kill all processes with Ctrl+C.
 
 ---
 
@@ -46,20 +52,38 @@ The core engine modifies the `torrc` configuration to allow multiple parallel co
 ---
 
 ## 🛠️ Tactical Deployment (Command Center)
-Execute the following commands to initialize the swarm:
 
-```bash
+<div style="border:1px solid #ff0000; padding:10px; margin:10px; border-radius:10px; background:#0a0a0a;">
+<pre>
 # 1. Clone the Arsenal
-git clone [https://github.com/YourUsername/S7-Swarm.git](https://github.com/YourUsername/S7-Swarm.git)
+git clone https://github.com/YourUsername/S7-Swarm.git
+</pre>
+</div>
 
+<div style="border:1px solid #ff0000; padding:10px; margin:10px; border-radius:10px; background:#0a0a0a;">
+<pre>
 # 2. Enter Directory
 cd S7-Swarm
+</pre>
+</div>
 
+<div style="border:1px solid #ff0000; padding:10px; margin:10px; border-radius:10px; background:#0a0a0a;">
+<pre>
 # 3. Grant Execution Rights
 chmod +x setup_s7.sh insta_tor3.sh
+</pre>
+</div>
 
+<div style="border:1px solid #ff0000; padding:10px; margin:10px; border-radius:10px; background:#0a0a0a;">
+<pre>
 # 4. Run Environmental Setup
 sudo ./setup_s7.sh
+</pre>
+</div>
 
+<div style="border:1px solid #ff0000; padding:10px; margin:10px; border-radius:10px; background:#0a0a0a;">
+<pre>
 # 5. Launch the Swarm
 ./insta_tor3.sh
+</pre>
+</div>
