@@ -1,50 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=thicker&color=000000&customColorList=10&height=300&section=header&text=S7%20SWARM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=NEXT-GEN%20MULTI-SESSION%20TOR%20AUTOMATION&descAlignY=62&descSize=20&fontColor=ff0000" width="100%" />
-
+<img src="https://capsule-render.vercel.app/render?type=thicker&color=000000&customColorList=10&height=300&section=header&text=S7%20SWARM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=THE%20CYBER%20SURGE%20IS%20HERE&descAlignY=62&descSize=20&fontColor=ff0000" width="100%" />
 
 <p align="center">
-  <img src="https://via.placeholder.com/200/000000/ff0000?text=S7+SWARM" alt="S7 Swarm Logo" width="200px" style="border-radius: 50%; border: 3px solid #ff0000; box-shadow: 0 0 30px #ff0000;">
+  <img src="https://via.placeholder.com/220/000000/ff0000?text=S7+CORE" alt="S7 Swarm Core" width="220px" style="border-radius: 20px; border: 2px solid #ff0000; box-shadow: 0 0 40px #ff0000;">
 </p>
 
-### 🔴 [ PROTOCOL: THE SWARM IS ACTIVE ] 🔴
-**High-Performance Multi-Session Browser Automation via Anonymous Tor Circuits**
+<svg width="100%" height="30">
+  <defs>
+    <linearGradient id="neonLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000" />
+      <stop offset="50%" stop-color="#ff0000" />
+      <stop offset="100%" stop-color="#000000" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="10" width="30%" height="3" fill="url(#neonLine)">
+    <animate attributeName="x" values="-30%; 100%; -30%" dur="3s" repeatCount="indefinite" />
+  </rect>
+  <rect x="0" y="15" width="20%" height="2" fill="url(#neonLine)">
+    <animate attributeName="x" values="100%; -20%; 100%" dur="4s" repeatCount="indefinite" />
+  </rect>
+</svg>
+
+### 🔴 [ PROTOCOL: ACTIVE ] 🔴
+**Advanced Multi-Session Tor Orchestration Framework**
 
 ---
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 
 </div>
 
-## 🌌 Project Overview
-**S7 Swarm** is a sophisticated Linux-based automation framework designed to orchestrate up to **12 simultaneous Chromium sessions**. Each session is cryptographically isolated and routed through its own unique **Tor SOCKS circuit**, ensuring complete IP diversity and identity protection across the swarm.
+## 🌌 Overview
+**S7 Swarm** allows you to deploy a massive fleet of isolated Chromium windows, each operating on a distinct Tor circuit. It is built for researchers who demand high-speed identity rotation and automated grid management.
 
-### ⚡ Core Cyber-Capabilities:
-* 🛡️ **Session Isolation:** Each instance utilizes a unique, temporary browser profile.
-* 🧅 **Multi-IP Routing:** Automatic binding to distinct Tor SOCKS ports (9050-9061).
-* 🖥️ **Dynamic Grid Layout:** Intelligent window positioning based on your real-time screen resolution.
-* 🚨 **Fail-Safe Mechanism:** One-touch termination (Ctrl+C) that cleans up all processes and sessions instantly.
-
----
-
-<div align="left">
-
-## 🛠️ System Prerequisites
-> [!IMPORTANT]
-> This framework is optimized for Debian-based distributions (Kali Linux, Ubuntu, Parrot OS).
-
-The following dependencies are managed automatically by the setup script:
-- `Tor Service` (Background daemon)
-- `Chromium-Browser` (Engine)
-- `Xdotool` & `Wmctrl` (Window Control)
-- `X11-Utils` (Screen Detection)
+### ⚡ Key Capabilities:
+* 🛡️ **Zero Trace:** Isolated profiles for every session.
+* 🧅 **IP Diversity:** Each window gets a fresh Tor identity.
+* 🖥️ **Smart Matrix:** Auto-calculated window positioning.
 
 ---
 
-## 🚀 Deployment & Operations
-Execute the following commands in your terminal to initialize the swarm:
+## 📂 System Files
+| Component | Function |
+| :--- | :--- |
+| `insta_tor3.sh` | Main Swarm Engine |
+| `setup_s7.sh` | Environmental Setup |
 
-### 1️⃣ System Preparation (One-time)
-Authorize and run the setup script to configure services and ports:
+---
+
+## 🧠 Technical Flow
+The system injects multiple SOCKS ports into the `torrc` configuration and utilizes `xdotool` to force the UI into a perfect tactical grid based on your screen resolution.
+
+---
+
+<div align="center">
+
+## 🛠️ Tactical Deployment (Instructions)
+Follow the commands below to initialize the swarm.
+
+</div>
+
+### 📦 1. Clone the Arsenal
 ```bash
-chmod +x setup_s7.sh && ./setup_s7.sh
+git clone [https://github.com/USER_NAME/S7-Swarm.git](https://github.com/USER_NAME/S7-Swarm.git)
