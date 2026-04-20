@@ -39,7 +39,7 @@
 
 <!-- IMAGE UNDER STATUS -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE"
+  <img src="https://github.com/husamhusamm/srap/blob/main/logo.png"
   width="220px"
   style="
     border-radius: 20px;
