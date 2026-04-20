@@ -3,17 +3,6 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/render?type=thicker&color=000000&customColorList=10&height=300&section=header&text=S7%20SWARM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=THE%20SWARM%20IS%20ACTIVE%20-%20MULTI-SESSION%20ORCHESTRATION&descAlignY=62&descSize=18&fontColor=ff0000" width="100%" style="filter: drop-shadow(0 0 20px red);" />
 
-<!-- MAIN IMAGE -->
-<p align="center">
-  <img src="https://github.com/husamhusamm/srap/blob/main/logo.png" alt="S7 Swarm Core"
-  width="220px"
-  style="
-    border-radius: 20px;
-    border: 2px solid #ff0000;
-    box-shadow: 0 0 25px #ff0000, 0 0 60px rgba(255,0,0,0.4);
-    transition: 0.3s;
-  ">
-</p>
 
 <!-- NEON SEPARATOR -->
 <svg width="100%" height="45">
