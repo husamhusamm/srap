@@ -1,43 +1,44 @@
-# ⚡✨ SRAP Project ✨⚡
+# 🧅⚡ S7 SWARM - Insta Tor Automation Framework ⚡🧅
 
 <p align="center">
-🚀 A clean, simple, and educational project for learning & experimentation 🚀  
+🚀 Multi-Session Browser Automation over Tor Network 🚀  
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/logo.png" width="320">
 </p>
 
 ---
 
-## 🌟 About the Project
+## 🌟 Overview
 
-**SRAP** is an educational project designed to help users learn, test, and understand automation concepts in a simple and structured way.
+**S7 Swarm** is a Linux-based automation framework designed to launch multiple isolated Chromium sessions routed through the Tor network.
 
-It focuses on:
-- Clean and readable structure
-- Beginner-friendly usage
-- Easy setup and execution
-- Educational experimentation
+It provides a structured way to simulate multiple independent browser environments with automatic window management and proxy routing.
 
 ---
 
-## 🖼️ Preview
+## ⚙️ Core Concept
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/husamhusamm/srap/main/logo.png" width="320"/>
-</p>
+This project focuses on:
 
----
-
-## ⚙️ Features
-
-✔ Simple and lightweight design  
-✔ Easy installation process  
-✔ Clean command structure  
-✔ Beginner friendly  
-✔ Fast execution  
+- 🧠 Multi-session browser automation  
+- 🧅 Tor-based network routing  
+- 🪟 Automatic window grid positioning  
+- 👤 Isolated browser profiles per session  
+- ⚡ Lightweight Bash execution engine  
 
 ---
 
-## 📦 Installation
+## 🚀 Features
 
-### 📥 Step 1: Clone the repository
-```bash
-git clone https://github.com/husamhusamm/srap.git
+✔ Multiple Chromium instances  
+✔ Tor SOCKS proxy integration  
+✔ Automatic session distribution  
+✔ Smart screen-based layout system  
+✔ Independent user profiles per window  
+✔ Safe shutdown system (Ctrl + C)  
+
+---
+
+## 📦 Project Structure
